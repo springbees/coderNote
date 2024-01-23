@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "407b46b36d8e493d",
+        "id": "76bb4dbf37876efd",
         "type": "tabs",
         "children": [
           {
-            "id": "1881da1bac31253a",
+            "id": "fdb7165b755280d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "框架源码/Spring/Spring源码学习准备.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "框架源码/Spring/Spring源码学习准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "框架源码/Spring/Spring源码学习准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "框架源码/Spring/Spring源码学习准备.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,9 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1881da1bac31253a",
+  "active": "fdb7165b755280d1",
   "lastOpenFiles": [
-    "框架源码/Spring/初入Spring源码学习.md",
+    "static/framework/Pasted image 20240123155301.png",
+    "static/framework/Pasted image 20240123153549.png",
+    "框架源码/Spring/Spring源码学习准备.md",
+    "static/framework",
+    "static",
+    "框架源码/Spring/未命名.md",
     "框架源码/Spring",
     "使用指南.md",
     "devops/待补充.md",
