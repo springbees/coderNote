@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "6ba1e9b1be68833d",
+    "type": "split",
+    "children": [
+      {
+        "id": "407b46b36d8e493d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1881da1bac31253a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "471dad797a3803b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e417b61d4479059c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab14ac55c7c70b4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7be3a6761ff97ef7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f019a4c7aa2ba61f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6e28d0383c2b48c",
+    "type": "split",
+    "children": [
+      {
+        "id": "37e843476844c6f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b52bbcf73343c11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e690826e1ee42da6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dba5e6d505193ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7dadcb67113e56d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1881da1bac31253a",
+  "lastOpenFiles": [
+    "框架源码/Spring/初入Spring源码学习.md",
+    "框架源码/Spring",
+    "使用指南.md",
+    "devops/待补充.md",
+    "项目管理/待补充.md",
+    "提效工具/待补充.md",
+    "面试技巧/待完善.md",
+    "架构理论/待完善.md",
+    "面试技巧",
+    "devops",
+    "2024-01-23.md",
+    "提效工具",
+    "项目管理",
+    "架构理论",
+    "框架源码"
+  ]
+}
